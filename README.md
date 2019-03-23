@@ -2,29 +2,6 @@
 layout: default
 ---
 
-# This page is just for fun.
-
-## Snowboarding
-
-I started my first season 2011/12 in Muju Resort which is called Deogyusan Ski Resort now.
-
-Every season, I got season pass in High1 Resort, Yangji Pine Resort, Daemyung Resort, or Jisan Forest Resort.
-
-I prefer riding but not trick and jibbing at all.
-
-## Tekkken series
-
-I developed macro joystick for Tekken series and released the electric circuit and parts list as well as source code for micro controller(you can see this on my blog).
-
-I was a Kuma/Panda player during Tekken 5 - 7, and ranked Usurper for Tekken 7 in Steam.
-
-## Hearthstone
-
-I loved to play games from Blizzard except the World of Warcraft but I don't play any game recently.
-
-<img src="./assets/img/hearthstone.jpg" width="400"/>
-
-<!--
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
@@ -141,4 +118,3 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
--->
