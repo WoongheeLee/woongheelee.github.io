@@ -20,6 +20,8 @@ I developed macro joystick for Tekken series and released the electric circuit a
 
 I was a Kuma/Panda player during Tekken 5 - 7, and ranked Usurper for Tekken 7 in Steam.
 
+<img src='./assets/img/tekken7.png' width='300'/>
+
 ## Hearthstone
 
 I loved to play games from Blizzard except the World of Warcraft but I don't play any game recently.
