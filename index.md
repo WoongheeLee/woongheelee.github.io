@@ -14,6 +14,8 @@ I prefer riding but not trick and jibbing at all.
 
 <img src="./assets/img/carving_turn.jpeg" width="200"/>
 
+<!--
+
 ## Tekkken series
 
 I developed macro joystick for Tekken series and released the electric circuit and parts list as well as source code for micro controller(you can see this on my blog).
@@ -38,7 +40,6 @@ Thanks for all members in "Walker Korea".
 
 <img src="./assets/img/walker.png" width="200"/>
 
-<!--
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
