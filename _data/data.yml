@@ -62,17 +62,17 @@ publications:
     papers:
       - title: Model Interpretation Considering Both Time and Frequency Axes Given Time Series Data
         link: "https://ieeexplore.ieee.org/abstract/document/9606711/"
-        authors: Lee,Woonghee, Gayeon Kim, Jeonghyeon Yu, and Younghoon Kim
-        conference: "Applied Sciences 12, no. 24 (2022): 12807"
+        authors: Lee, Woonghee, Gayeon Kim, Jeonghyeon Yu, and Younghoon Kim
+        conference: "Applied Sciences 12, no. 24 (2022): 12807."
 
       - title: Contextual Imputation With Missing Sequence of EEG Signals Using Generative Adversarial Networks
         link: "https://ieeexplore.ieee.org/abstract/document/9606711/"
-        authors: Lee,Woonghee, Jaeyoung Lee, and Younghoon Kim
-        conference: "IEEE Access 9 (2021): 151753-151765"
+        authors: Lee, Woonghee, Jaeyoung Lee, and Younghoon Kim
+        conference: "IEEE Access 9 (2021): 151753-151765."
 
       - title: Forecasting solar power using long-short term memory and convolutional neural networks
         link: "https://ieeexplore.ieee.org/abstract/document/8543793"
-        authors: Lee,Woonghee, Keonwoo Kim, Junsep Park, Jinhee Kim, and Younghoon Kim
+        authors: Lee, Woonghee, Keonwoo Kim, Junsep Park, Jinhee Kim, and Younghoon Kim
         conference: "IEEE access 6 (2018): 73068-73080. (cited by 64 times)"
 
 publications2:
@@ -80,23 +80,51 @@ publications2:
     papers:
       - title: Interactive sleep stage labelling tool for diagnosing sleep disorder using deep learning
         link: "https://pubmed.ncbi.nlm.nih.gov/30440368/"
-        authors: Lee,Woonghee, and Younghoon Kim
+        authors: Lee, Woonghee, and Younghoon Kim
         conference: In 2018 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), pp. 183-186. IEEE, 2018. (43% acceptance rate for oral)
 
       - title: "ActiveMotif: Interactive motif discovery with human feedback"
         link: "https://pubmed.ncbi.nlm.nih.gov/29060464/"
         authors: Kim, Younghoon, Woonghee Lee, and Keonwoo Kim
-        conference: "In 2017 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), pp. 2736-2739. IEEE, 2017"
+        conference: "In 2017 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), pp. 2736-2739. IEEE, 2017."
 
-career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+projects:
+    title: ADDITIONAL EXPERIENCE
+    intro: >
+      You can list your side projects in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+# career-profile:
+#     title: Career Profile
+#     summary: |
+#       Summarise your career here lorem ipsum dolor sit amet, consectetuer
+#       adipiscing elit. You can [download this free resume/CV template here]().
+#       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+#       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+#       Donec quam felis, ultricies nec, pellentesque eu.
+#       Second paragraph if required.
+
 education:
     title: Education
     info:
@@ -123,7 +151,7 @@ education:
             - Bullet point
             - Bullet point
 experiences:
-    title: Experiences
+    title: Teaching Experiences
     info:
       - role: Lead Developer
         time: 2015 - Present
@@ -162,35 +190,10 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
-    title: OSS Contributions
+    title: Grants And Awards
     intro: >
       You can list your open source software contributions in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
