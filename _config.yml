@@ -1,142 +1,55 @@
-# Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 
-# Content configuration version
-version: 2
-
-# Personal info
-name: Lee, Woonghee
-title: Ph.D. (expected Feb. 2023)
+title: Lee, Woonghee
 email: woongheelee@hanyang.ac.kr
-# email_title: Email (Email title override)
-phone: +82-10-2971-3700
-# phone_title: Phone (Phone title override)
-# website: Your website (eg. https://google.com)(optional)
-# website_title: Web (Website title override)
-
-# Dark Mode (true/false/never)
-darkmode: false
-
-# Social links
-#twitter_username: jekyllrb
-github_username:  WoongheeLee
-#stackoverflow_username: "00000001"
-#dribbble_username: jekyll
-#facebook_username: jekyll
-#flickr_username: jekyll
-#instagram_username: jekyll
-linkedin_username: woonghee-lee-01029713700
-#xing_username: jekyll
-#pinterest_username: jekyll
-#youtube_username: jekyll
-orcid_username: 0000-0001-7850-9913
-googlescholar_username: 1gazmgUAAAAJ
-
-# Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
-
-# About Section
-# about_title: About Me (Use this to override about section title)
-about_profile_image: images/myprofile_circle.jpg #Directory of profile image (eg. images/profile.jpg)
-about_content: | # this will include new lines to allow paragraphs
-Hi, my name is Woonghee Lee. #I received the Ph.D. from Department of Computer Science and Engineering, Hanyang University, in 2023.
-#  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-#  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-#    - Lists
-#    - Tables
-#    - <a href="google.com">Links</a>
-#    - Images ![alt text](/images/landscape-trees.jpg "Trees")
-
-content:
-   - title: Education
-    layout: list
-    content:
-      - layout: top-right
-        title: Hanyang University
-        sub_title: Ph.D. in Computer Science & Engineering 
-        caption: Feb. 2023
-        quote: >
-         Robust Deep Learning-based Computer-aided Diagnosis Against Errneous Data
-        description: | # this will include new lines to allow paragraphs
-          Advisor - Younghoon Kim
- 
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
-  - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
-#  - title: A Little More About Me
-#    layout: text
-#    content: | # this will include new lines to allow paragraphs
-#      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-          #      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
-
-# Footer
-footer_show_references: true
-# references_title: References on request (Override references text)
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
 
 # Build settings
-# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
-# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
-
-sass:
-  sass_dir: _sass
-  style: compressed
-
+theme: minima
 plugins:
- - jekyll-seo-tag
+  - jekyll-feed
 
-exclude : [
-  "Gemfile",
-  "Gemfile.lock",
-  "node_modules",
-  "vendor/bundle/",
-  "vendor/cache/",
-  "vendor/gems/",
-  "vendor/ruby/",
-  "lib/",
-  "scripts/",
-  "docker-compose.yml",
-  ]
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
