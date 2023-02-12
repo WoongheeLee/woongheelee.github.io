@@ -1,2 +1,2 @@
 # cv
-https://woongheelee.github.io
+<a href="https://woongheelee.github.io" target="_blank">my cv link</a>
