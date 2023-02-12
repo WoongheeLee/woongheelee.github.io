@@ -3,7 +3,7 @@
 # 출처 https://github.com/sharu725/online-cv
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: woongheelee@hanyang.ac.kr
     phone: +82-10-2971-3700
-    # timezone: America/Cancun Timezone
+    # timezone: Korean Standard Time (GMT+9)
     # citizenship:
     # website: blog.webjeda.com #do not add http://
     linkedin: woonghee-lee-01029713700
@@ -36,10 +36,7 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: Intermediate
-
-        # - idiom: Spanish
-        #   level: Professional
+          level: Advanced
 
     # interests:
     #   title: Interests
@@ -53,6 +50,15 @@ sidebar:
     #     - item: Cooking
     #       link:
 
+career-profile:
+    title: Introduction
+    summary: |
+      Hi, my name is Woonghee Lee. 
+      My research interest is deep learning applications applied to various type of data such as image, signal and text datasets.
+      I received Ph.D. from the Department of Computer Science & Engineering at Hanyang University. 
+      My doctoral advisor was [Younghoon Kim](https://sites.google.com/site/nongaussian).
+
+
 publications:
     title: International Journals
     # intro: |
@@ -61,7 +67,7 @@ publications:
     #   bibendum fringilla a eu lectus.
     papers:
       - title: Model Interpretation Considering Both Time and Frequency Axes Given Time Series Data
-        link: "https://ieeexplore.ieee.org/abstract/document/9606711/"
+        link: "https://doi.org/10.3390/app122412807"
         authors: Lee, Woonghee, Gayeon Kim, Jeonghyeon Yu, and Younghoon Kim
         conference: "Applied Sciences 12, no. 24 (2022): 12807."
 
@@ -88,41 +94,25 @@ publications2:
         authors: Kim, Younghoon, Woonghee Lee, and Keonwoo Kim
         conference: "In 2017 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), pp. 2736-2739. IEEE, 2017."
 
-# career-profile:
-#     title: Career Profile
-#     summary: |
-#       Summarise your career here lorem ipsum dolor sit amet, consectetuer
-#       adipiscing elit. You can [download this free resume/CV template here]().
-#       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-#       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-#       Donec quam felis, ultricies nec, pellentesque eu.
-#       Second paragraph if required.
-
 education:
-    title: Education
+    title: Education & Research Visit
     info:
       - degree: Ph.D. in Computer Science & Engineering
         university: Hanyang University
         time: Feb. 2023 (expected)
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Thesis: Robust Deep Learning-based Computer-aided Diganosis Against Erroneous Data (best paper award)
+            - Advisor: Prof. Younghoon Kim
       - degree: BSc in Industrial Management & Engineering
         university: Hanyang University ERICA Campus
         time: Aug. 2015
+
+      - degree: Visiting scholar
+        university: Kennesaw State University, GA, USA
+        time: Jul. 2021 - Jan. 2022
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Host: Junggab Son
+
 experiences:
     title: Teaching Experiences
     info:
@@ -138,11 +128,11 @@ experiences:
         time: Spring 2020
         company: Hanyang University ERICA Campus
         details: |
-            Artificiall Intelligence and Future Society
+            Artificial Intelligence and Future Society
             
             - a course for STEM students to learn Python and machine learning algorithms as well as corresponding frameworks
       - role: Teaching assistant
-        time: "#"
+        time: ""
         company: Hanyang University ERICA Campus
         details: |
             class names
@@ -260,5 +250,5 @@ skills:
       - name: Python
         level: 98%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
