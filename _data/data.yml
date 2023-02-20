@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: 이웅희 (Lee, Woonghee)
-    tagline: Ph.D. (expected Feb. 2023)
+    tagline: Ph.D.
     avatar: myprofile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -99,7 +99,7 @@ education:
     info:
       - degree: Ph.D. in Computer Science & Engineering
         university: Hanyang University
-        time: Feb. 2023 (expected)
+        time: Feb. 2023
         details: |
             - Thesis: Robust Deep Learning-based Computer-aided Diganosis Against Erroneous Data (best paper award)
             - Advisor: Prof. Younghoon Kim
