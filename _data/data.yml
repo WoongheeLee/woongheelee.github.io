@@ -222,15 +222,18 @@ oss:
 
     contributions:
       - title: "Feb. 2023"
+        link: "https://youtu.be/44F8XGWcE0k"
         tagline: 박사학위 우수논문상, 한양대학교, 대한민국
+        
       - title: "2018"
-#         link: "#"
+#         link: ""
         tagline: Research assitant scholarship, Hanyang University, Korea
         
       - title: "2016 - 2018"
         tagline: Brain Korea 21 Plus scholarship, Hanyang University, Korea
         
       - title: "Jun. 2016"
+        link: "http://m.kiise.or.kr/conference/board/boardview.do?CC=kcc&CS=2016&PARENT_ID=530100&NUM=28"
         tagline: 최우수논문상, 한국정보과학회, 제주, 대한민국
         
       - title: "2015 - 2017"
@@ -244,7 +247,7 @@ skills:
       - name: PyTorch & TensorFlow
         level: 98%
 
-      - name: Scikit-learn & pandas & NumPy & SciPy
+      - name: Scikit-learn & pandas & NumPy & SciPy & Matplotlib 
         level: 98%
 
       - name: Python
