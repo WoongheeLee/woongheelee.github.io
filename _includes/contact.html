@@ -12,7 +12,7 @@
       <a href="tel:{{ sidebar.phone }}">{{ sidebar.phone }}</a>
     </li>
     {% endif %}
-
+      
     {% if sidebar.citizenship %}
     <li class="phone"><i class="fas fa-passport"></i>
       <a href="">{{ sidebar.citizenship }}</a>
@@ -96,6 +96,13 @@
       <a href="{{ sidebar.pdf }}" target="_blank">Resume PDF</a>
     </li>
     {% endif %}
+      
+    {% if sidebar.orcid %}
+    <li class="phone"><i class="fas fa-book"></i>
+      <a href="https://orcid.org/{{ sidebar.orcid }}" target="_blank">{{ sidebar.orcid }}</a>
+    </li>
+    {% endif %}
+
 
   </ul>
 </div><!--//contact-container-->
