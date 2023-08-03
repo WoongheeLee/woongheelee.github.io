@@ -68,6 +68,11 @@ publications:
     #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     #   bibendum fringilla a eu lectus.
     papers:
+      - title: Automated Clinical Impression Generation for Medical Signal Data Searches
+        link: "https://doi.org/10.3390/app13158931"
+        authors: Lee, Woonghee, Jaewoo Yang, Doyeong Park, and Younghoon Kim
+        conference: "Applied Sciences 13, no. 15 (2023): 8931."
+
       - title: Model Interpretation Considering Both Time and Frequency Axes Given Time Series Data
         link: "https://doi.org/10.3390/app122412807"
         authors: Lee, Woonghee, Gayeon Kim, Jeonghyeon Yu, and Younghoon Kim
