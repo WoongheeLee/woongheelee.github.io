@@ -10,6 +10,20 @@
 bundle init
 bundle exec jekyll serve
 ```
+## 윈도우에서 설치법
+1. 위 링크에서 rubyinstaller-devkit-\*\*\*-x64.exe 파일을 받는다. 
+2. 프로그램을 실행해서 설치한다. 이 때 선택지는 1번을 먼저 고르고, 나머지는 엔터 입력으로 설치
+3. 아래 명령어를 실행해서 설치 후 jekyll의 버전을 확인할 수 있다.
+```shell
+bundle init
+gem install jekyll bundler
+jekyll -v
+```
+4. 윈도우에서는 아래 명령어로 jekyll 을 실행한다.
+```shell
+jekyll serve
+```
+
 
 # 아이콘 바꾸기
 * 이 테마에는 [font awesome](https://fontawesome.com/)이라는 아이콘을 사용한다.
