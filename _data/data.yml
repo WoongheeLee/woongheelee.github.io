@@ -100,7 +100,12 @@ publications2:
         link: "https://pubmed.ncbi.nlm.nih.gov/29060464/"
         authors: Kim, Younghoon, Woonghee Lee, and Keonwoo Kim
         conference: "In 2017 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), pp. 2736-2739. IEEE, 2017."
-
+        
+publications3:
+    title: Domestic Journals and Conferences (Korea)
+    papers: 
+        - title: 5 Journal Papers & 18 Poster and Oral Presentations (2016-current)
+    
 education:
     title: Education & Research Visit
     info:
