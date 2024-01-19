@@ -102,7 +102,7 @@ publications2:
         conference: "In 2017 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), pp. 2736-2739. IEEE, 2017."
         
 publications3:
-    title: Domestic Journals and Conferences (Korea)
+    title: Domestic Journals &amp; Conferences (Korea)
     papers: 
         - title: 5 Journal Papers & 18 Poster and Oral Presentations (2016-current)
     
@@ -233,7 +233,7 @@ experiences2:
 #         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
-    title: Grants And Awards
+    title: Grants &amp; Awards
     intro: >
 
     contributions:
