@@ -68,6 +68,11 @@ publications:
     #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     #   bibendum fringilla a eu lectus.
     papers:
+      - title: "Enhancing CT Segmentation Security against Adversarial Attack: Most Activated Filter Approach"
+        link: "https://doi.org/10.3390/app14052130"
+        authors: Lee, Woonghee, and Younghoon Kim
+        conference: "Applied Sciences 14, no. 5 (2024): ."
+
       - title: Automated Clinical Impression Generation for Medical Signal Data Searches
         link: "https://doi.org/10.3390/app13158931"
         authors: Lee, Woonghee, Jaewoo Yang, Doyeong Park, and Younghoon Kim
