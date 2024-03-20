@@ -68,13 +68,13 @@ publications:
     #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     #   bibendum fringilla a eu lectus.
     papers:
-       - title: "Adversarial Attacks on Medical Segmentation Model via Transformation of Feature Statistics"
-        link: "https://doi.org/10.3390/app14052130"
+      - title: "Adversarial Attacks on Medical Segmentation Model via Transformation of Feature Statistics"
+        link: "https://doi.org/10.3390/app14062576"
         authors: Lee, Woonghee, Mingeon Ju, Yura Sim, Young Kul Jung, Tae Hyung Kim, and Younghoon Kim
         conference: "Applied Sciences 14, no. 6 (2024): 2576."
 
 
-     - title: "Enhancing CT Segmentation Security against Adversarial Attack: Most Activated Filter Approach"
+      - title: "Enhancing CT Segmentation Security against Adversarial Attack: Most Activated Filter Approach"
         link: "https://doi.org/10.3390/app14052130"
         authors: Lee, Woonghee, and Younghoon Kim
         conference: "Applied Sciences 14, no. 5 (2024): 2130."
