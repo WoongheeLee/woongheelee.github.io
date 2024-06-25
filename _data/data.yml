@@ -172,6 +172,9 @@ experiences3:
     title: Review service
     info:
         - role: Peer reviewer
+          time: "2024"
+          company: "27th International Conference on Medical Image Computing and Computer Assisted Intervention"
+        - role: Peer reviewer
           time: "2023"
           company: "26th International Conference on Medical Image Computing and Computer Assisted Intervention"
 
