@@ -171,7 +171,7 @@ experiences:
 experiences4:
     title: Invited Talks
     info:
-        - role: Invited Lecturer
+        - role: "Invited Lecturer"
           time: "Jul. 12th, 2024"
           company: "Korea Society of Computer Information"
           details: |
@@ -179,7 +179,6 @@ experiences4:
 
               - 발표 주제: 거대 언어 모델의 논리 추론 능력 평가와 향상
               - 발표 슬라이드: [PDF 다운로드](https://raw.githubusercontent.com/WoongheeLee/woongheelee.github.io/master/downloads/20240712-jeju.pdf)
-
 
 experiences3:
     title: Review service
