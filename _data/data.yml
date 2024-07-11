@@ -171,10 +171,10 @@ experiences:
 experiences4:
     title: Invited Talks
     info:
-        - role: "Invited Lecturer"
+        - role: Invited Lecturer
           time: "Jul. 12th, 2024"
           company: "Korea Society of Computer Information"
-          details: |
+          details: | 
             Keynote II
 
               - 발표 주제: 거대 언어 모델의 논리 추론 능력 평가와 향상
