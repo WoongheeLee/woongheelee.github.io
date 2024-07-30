@@ -92,12 +92,12 @@ publications:
       - title: Contextual Imputation With Missing Sequence of EEG Signals Using Generative Adversarial Networks
         link: "https://ieeexplore.ieee.org/abstract/document/9606711/"
         authors: Lee, Woonghee, Jaeyoung Lee, and Younghoon Kim
-        conference: "IEEE Access 9 (2021): 151753-151765."
+        conference: "IEEE Access 9 (2021): 151753-151765. (cited by 16 times)"
 
       - title: Forecasting solar power using long-short term memory and convolutional neural networks
         link: "https://ieeexplore.ieee.org/abstract/document/8543793"
         authors: Lee, Woonghee, Keonwoo Kim, Junsep Park, Jinhee Kim, and Younghoon Kim
-        conference: "IEEE Access 6 (2018): 73068-73080. (cited by 64 times)"
+        conference: "IEEE Access 6 (2018): 73068-73080. (cited by 175 times)"
 
 publications2:
     title: International Conferences
