@@ -304,5 +304,11 @@ skills:
       - name: Python
         level: 98%
 
+      - name: FastAPI
+        level: 90%
+
+      - name: HTML, CSS, Javascript
+        level: 90%
+
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
