@@ -295,10 +295,10 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: (Deep Learning) PyTorch & TensorFlow
+      - name: (Deep Learning) PyTorch, TensorFlow
         level: 98%
 
-      - name: (Machine Learning) Scikit-learn & pandas & NumPy & SciPy & Matplotlib 
+      - name: (Machine Learning) Scikit-learn, pandas, NumPy, SciPy, Matplotlib 
         level: 98%
 
       - name: (General) Python
@@ -307,8 +307,11 @@ skills:
       - name: (Web Backend) FastAPI
         level: 95%
 
-      - name: (Web Forntend) HTML, CSS, Javascript
+      - name: (Web Frontend) HTML, CSS, JavaScript
         level: 95%
+
+      - name: (Office Software) Powerpoint, Word, Excel
+        lavel: 98%
 
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
