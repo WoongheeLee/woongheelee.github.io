@@ -304,10 +304,7 @@ skills:
       - name: (General) Python
         level: 98%
 
-      - name: (Web Backend) FastAPI
-        level: 95%
-
-      - name: (Web Frontend) HTML, CSS, JavaScript
+      - name: (Web) FastAPI HTML, CSS, JavaScript
         level: 95%
 
       - name: (Office Software) Powerpoint, Word, Excel
