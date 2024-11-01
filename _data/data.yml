@@ -39,6 +39,9 @@ sidebar:
         - idiom: English
           level: Advanced
 
+        - idiom: Quantificational logic
+          level: Advanced
+
     # interests:
     #   title: Interests
     #   info:
@@ -128,7 +131,7 @@ education:
         university: Hanyang University
         time: Feb. 2023
         details: |
-            - Thesis: Robust Deep Learning-based Computer-aided Diganosis Against Erroneous Data (best paper award)
+            - Thesis: Robust Deep Learning-based Computer-aided Diagnosis Against Erroneous Data (best paper award)
             - Advisor: Prof. Younghoon Kim
       - degree: BSc in Industrial Management & Engineering
         university: Hanyang University ERICA Campus
@@ -150,7 +153,7 @@ experiences:
             Logical Foundations of Programming
             
             - a course for students who major in computer science to help translation of natural language into logical language which can be understood by computer
-            - taught first-order logica which is the logical language as well as proof skills of problems written in first-order logic
+            - taught first-order logic which is the logical language as well as proof skills of problems written in first-order logic
       - role: Lecturer
         time: Spring 2020
         company: Hanyang University ERICA Campus
