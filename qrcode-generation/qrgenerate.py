@@ -1,7 +1,7 @@
 import qrcode
 
 # The URL you want to encode
-url = "https://raw.githubusercontent.com/WoongheeLee/woongheelee.github.io/master/downloads/20240712-jeju.pdf"
+url = "https://raw.githubusercontent.com/WoongheeLee/woongheelee.github.io/master/downloads/nmc250430.pdf"
 
 # Generate the QR code
 qr = qrcode.QRCode(
