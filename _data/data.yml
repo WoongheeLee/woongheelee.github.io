@@ -59,7 +59,7 @@ career-profile:
     summary: |
       Hi, my name is Woonghee Lee and I am a senior researcher specializing in deep learning applications applied to various types of data, including image, signal, and text datasets. 
       My current primary research objective is to develop a benchmark system for testing deep learning applications, as well as to manipulate the knowledge possessed by deep learning models. 
-      Currently, I am working as a researcher at Korea Institute of Korea Research.
+      Currently, I am working as a researcher at Korea Institute of Energy Research.
       I earned my Ph.D. from the Department of Computer Science & Engineering at Hanyang University.
       My doctoral advisor was [Younghoon Kim](https://sites.google.com/site/nongaussian).
 
@@ -125,7 +125,7 @@ education:
     info:
       - degree: Post-Doctoral Researcher
         university: Hanyang University ERICA Campus
-        time: Mar. 2023 - Jul. 2024
+        time: Mar. 2023 - Jul. 2024 
         
       - degree: Ph.D. in Computer Science & Engineering
         university: Hanyang University
@@ -172,14 +172,30 @@ experiences:
             - Data Base
 
 experiences4:
-    title: Invited Talks
+    title: Selected Presentations
     info:
+      - role: Invited Lecturer
+        time: "Jun. 12th, 2025"
+        company: "국립중앙의료원 (National Medical Center)"
+        details: |
+            - 강의 주제: ChatGPT를 활용한 학술연구 분석
+      - role: Invited Lecturer
+        time: "Apr. 30th, 2025"
+        company: "Hanyang University ERICA Campus"
+        details: |
+            - 강의 주제: 생성형 AI의 업무 활용법
       - role: Invited Lecturer 
         time: "Apr. 30th, 2025"
-        company: "National Medical Center"
+        company: "국립중앙의료원 (National Medical Center)"
         details: | 
             - 강의 내용: 디지털 보건행정과 생성형 AI활용법
             - 발표 슬라이드: [<i><u>PDF 다운로드</u></i>](https://raw.githubusercontent.com/WoongheeLee/woongheelee.github.io/master/downloads/nmc250430.pdf)
+      - role: Internal Seminar Speaker 
+        time: "Feb. 5th, 2025" 
+        company: "Korea Institute of Energy Research"
+        details: | 
+            - 발표 주제: 딥러닝의 발전사: 인공 시각·언어 지능에서 AI 에이전트로
+            - 주요 내용: 딥러닝 모델의 발전사, Vision/Language 모델 구조 비교, 멀티모달 AI와 에이전트형 AI의 미래 전망
       - role: Invited Lecturer
         time: "Jul. 12th, 2024"
         company: "Korea Society of Computer Information"
