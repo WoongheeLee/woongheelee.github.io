@@ -28,7 +28,8 @@ sidebar:
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://raw.githubusercontent.com/WoongheeLee/woongheelee.github.io/master/downloads/Woonghee_Lee_CV.pdf
+    pdf-en: https://github.com/WoongheeLee/cv/blob/main/Woonghee%20Lee%20CV/woonghee_lee_cv_en_full.pdf?raw=1
+    pdf-kr: https://github.com/WoongheeLee/cv/blob/main/Woonghee%20Lee%20CV/woonghee_lee_cv_kr_full.pdf?raw=1
 
     languages:
       title: Languages
@@ -175,6 +176,12 @@ experiences4:
     title: Selected Presentations
     info:
       - role: Invited Lecturer
+        time: "Nov. 5th, 2025"
+        company: "THe 14th Asia-Pacific Forum on Renewable Energy (AFORE 2025)"
+        details: |
+            - Tutorial: Smart Research Life with AI 
+            - AI Agent-Based Research Tools: From Background to Cases
+      - role: Invited Lecturer
         time: "Jun. 12th, 2025"
         company: "국립중앙의료원 (National Medical Center)"
         details: |
@@ -204,8 +211,6 @@ experiences4:
 
             - 발표 주제: [거대 언어 모델의 논리 추론 능력 평가와 향상](https://conference-2024-02.ksci.re.kr/)
             - 발표 슬라이드: [<i><u>PDF 다운로드</u></i>](https://raw.githubusercontent.com/WoongheeLee/woongheelee.github.io/master/downloads/20240712-jeju.pdf)
-
-
 
 experiences3:
     title: Review service
