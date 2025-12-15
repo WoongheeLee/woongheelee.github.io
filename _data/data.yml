@@ -176,6 +176,12 @@ experiences4:
     title: Selected Presentations
     info:
       - role: Invited Lecturer
+        time: "Nov. 5th, 2025"
+        company: "THe 14th Asia-Pacific Forum on Renewable Energy (AFORE 2025)"
+        details: |
+            - Tutorial: Smart Research Life with AI
+            - AI Agent-Based Research Tools: From Background to Cases
+      - role: Invited Lecturer
         time: "Jun. 12th, 2025"
         company: "국립중앙의료원 (National Medical Center)"
         details: |
