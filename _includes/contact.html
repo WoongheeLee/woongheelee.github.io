@@ -91,12 +91,18 @@
     </li>
     {% endif %}
 
-    {% if sidebar.pdf %}
-    <li class="pdf"><i class="fas fa-file-pdf"></i>
-      <a href="{{ sidebar.pdf }}" target="_blank">Download CV (PDF)</a>
+    {% if sidebar.pdf-en %}
+    <li class="pdf-en"><i class="fas fa-file-pdf"></i>
+      <a href="{{ sidebar.pdf-en }}" target="_blank">Download English CV (PDF)</a>
     </li>
     {% endif %}
-      
+
+    {% if sidebar.pdf-kr %}
+    <li class="pdf-kr"><i class="fas fa-file-pdf"></i>
+      <a href="{{ sidebar.pdf-kr }}" target="_blank">Download Korean CV (PDF)</a>
+    </li>
+    {% endif %}
+
     {% if sidebar.orcid %}
     <li class="phone"><i class="fas fa-book"></i>
       <a href="https://orcid.org/{{ sidebar.orcid }}" target="_blank">{{ sidebar.orcid }}</a>
