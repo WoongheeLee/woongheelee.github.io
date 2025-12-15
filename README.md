@@ -54,10 +54,47 @@ bundle exec jekyll serve
 
 ---
 
-# 아이콘 바꾸기  
+# 아이콘 바꾸기
 
-이 테마에서는 [Font Awesome](https://fontawesome.com/)의 아이콘을 사용합니다.  
+이 테마에서는 [Font Awesome](https://fontawesome.com/)의 아이콘을 사용합니다.
 아이콘을 변경하고 싶다면 [W3Schools 아이콘 페이지](https://www.w3schools.com/icons/default.asp)에서 원하는 아이콘을 선택해 교체할 수 있습니다.
+
+---
+
+# 주요 파일 구조
+
+프로젝트의 핵심 파일 및 디렉토리 구조는 다음과 같습니다:
+
+```
+woongheelee.github.io/
+├── _data/
+│   └── data.yml              # CV의 핵심 데이터 파일 (개인정보, 학력, 경력, 논문, 발표 등)
+├── _includes/
+│   └── contact.html          # CV PDF 다운로드 링크 (영문/국문 분리)
+├── assets/
+│   └── images/
+│       └── myprofile2.jpg    # 프로필 이미지
+├── downloads/                # 발표 자료 및 PDF 파일
+├── _config.yml               # Jekyll 사이트 설정 파일
+└── index.html                # 메인 페이지
+```
+
+### 주요 파일 설명
+
+- **`_data/data.yml`**: CV의 모든 내용을 관리하는 핵심 파일입니다.
+  - 개인 정보 (이름, 이메일, 연락처, 소셜 미디어 링크)
+  - 학력 및 경력
+  - 논문 목록 (국제 저널, 국제 학회, 국내 학술지)
+  - 초청 강연 이력
+  - 프로젝트 경험
+  - 수상 및 장학금 내역
+  - 기술 스택 및 능숙도
+
+- **`_includes/contact.html`**: CV PDF 다운로드 버튼이 포함된 파일입니다.
+  - 영문 CV: `pdf-en` 링크 사용
+  - 국문 CV: `pdf-kr` 링크 사용
+
+- **`assets/images/`**: 프로필 이미지 및 기타 이미지 파일을 저장하는 디렉토리입니다.
 
 ---
 
