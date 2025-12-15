@@ -38,7 +38,7 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: Advanced
+          level: Professional working proficiency
 
         - idiom: Quantificational logic
           level: Advanced
@@ -176,12 +176,6 @@ experiences4:
     title: Selected Presentations
     info:
       - role: Invited Lecturer
-        time: "Nov. 5th, 2025"
-        company: "THe 14th Asia-Pacific Forum on Renewable Energy (AFORE 2025)"
-        details: |
-            - Tutorial: Smart Research Life with AI 
-            - AI Agent-Based Research Tools: From Background to Cases
-      - role: Invited Lecturer
         time: "Jun. 12th, 2025"
         company: "국립중앙의료원 (National Medical Center)"
         details: |
@@ -211,6 +205,8 @@ experiences4:
 
             - 발표 주제: [거대 언어 모델의 논리 추론 능력 평가와 향상](https://conference-2024-02.ksci.re.kr/)
             - 발표 슬라이드: [<i><u>PDF 다운로드</u></i>](https://raw.githubusercontent.com/WoongheeLee/woongheelee.github.io/master/downloads/20240712-jeju.pdf)
+
+
 
 experiences3:
     title: Review service
