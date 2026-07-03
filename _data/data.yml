@@ -12,11 +12,11 @@ sidebar:
     avatar: myprofile2.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: woongheelee@hanyang.ac.kr
-    phone: +82-10-2971-3700
+    email: woongheelee@kier.re.kr
+    phone: +82-42-860-3121
     # timezone: Korean Standard Time (GMT+9)
     # citizenship:
-    # website: blog.webjeda.com #do not add http://
+    website: dais-research.github.io #do not add http://
     linkedin: woonghee-lee-01029713700
     # xing: alandoe
     github: WoongheeLee
@@ -60,7 +60,7 @@ career-profile:
     summary: |
       Hi, my name is Woonghee Lee and I am a senior researcher specializing in deep learning applications applied to various types of data, including image, signal, and text datasets. 
       My current primary research objective is to develop a benchmark system for testing deep learning applications, as well as to manipulate the knowledge possessed by deep learning models. 
-      Currently, I am working as a researcher at Korea Institute of Energy Research.
+      Currently, I am a senior researcher in the [Energy AI & Computational Science Laboratory](https://kier-ai-cs.github.io/home/) at the Korea Institute of Energy Research (KIER), where I lead the [DAIS Research Group](https://dais-research.github.io/).
       I earned my Ph.D. from the Department of Computer Science & Engineering at Hanyang University.
       My doctoral advisor was [Younghoon Kim](https://sites.google.com/site/nongaussian).
 
@@ -75,33 +75,33 @@ publications:
       - title: "Adversarial Attacks on Medical Segmentation Model via Transformation of Feature Statistics"
         link: "https://doi.org/10.3390/app14062576"
         authors: Lee, Woonghee, Mingeon Ju, Yura Sim, Young Kul Jung, Tae Hyung Kim, and Younghoon Kim
-        conference: "Applied Sciences 14, no. 6 (2024): 2576."
+        conference: "<em>Applied Sciences</em> 14, no. 6 (2024): 2576."
 
 
       - title: "Enhancing CT Segmentation Security against Adversarial Attack: Most Activated Filter Approach"
         link: "https://doi.org/10.3390/app14052130"
         authors: Lee, Woonghee, and Younghoon Kim
-        conference: "Applied Sciences 14, no. 5 (2024): 2130."
+        conference: "<em>Applied Sciences</em> 14, no. 5 (2024): 2130."
 
       - title: Automated Clinical Impression Generation for Medical Signal Data Searches
         link: "https://doi.org/10.3390/app13158931"
         authors: Lee, Woonghee, Jaewoo Yang, Doyeong Park, and Younghoon Kim
-        conference: "Applied Sciences 13, no. 15 (2023): 8931."
+        conference: "<em>Applied Sciences</em> 13, no. 15 (2023): 8931."
 
       - title: Model Interpretation Considering Both Time and Frequency Axes Given Time Series Data
         link: "https://doi.org/10.3390/app122412807"
         authors: Lee, Woonghee, Gayeon Kim, Jeonghyeon Yu, and Younghoon Kim
-        conference: "Applied Sciences 12, no. 24 (2022): 12807."
+        conference: "<em>Applied Sciences</em> 12, no. 24 (2022): 12807."
 
       - title: Contextual Imputation With Missing Sequence of EEG Signals Using Generative Adversarial Networks
         link: "https://ieeexplore.ieee.org/abstract/document/9606711/"
         authors: Lee, Woonghee, Jaeyoung Lee, and Younghoon Kim
-        conference: "IEEE Access 9 (2021): 151753-151765. (cited by 16 times)"
+        conference: "<em>IEEE Access</em> 9 (2021): 151753-151765. (cited by 16 times)"
 
       - title: Forecasting solar power using long-short term memory and convolutional neural networks
         link: "https://ieeexplore.ieee.org/abstract/document/8543793"
         authors: Lee, Woonghee, Keonwoo Kim, Junsep Park, Jinhee Kim, and Younghoon Kim
-        conference: "IEEE Access 6 (2018): 73068-73080. (cited by 175 times)"
+        conference: "<em>IEEE Access</em> 6 (2018): 73068-73080. (cited by 175 times)"
 
 publications2:
     title: International Conferences
@@ -109,12 +109,12 @@ publications2:
       - title: Interactive sleep stage labelling tool for diagnosing sleep disorder using deep learning
         link: "https://pubmed.ncbi.nlm.nih.gov/30440368/"
         authors: Lee, Woonghee, and Younghoon Kim
-        conference: In 2018 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), pp. 183-186. IEEE, 2018. (43% acceptance rate for oral)
+        conference: "In <em>2018 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)</em>, pp. 183-186. IEEE, 2018. (43% acceptance rate for oral)"
 
       - title: "ActiveMotif: Interactive motif discovery with human feedback"
         link: "https://pubmed.ncbi.nlm.nih.gov/29060464/"
         authors: Kim, Younghoon, Woonghee Lee, and Keonwoo Kim
-        conference: "In 2017 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), pp. 2736-2739. IEEE, 2017."
+        conference: "In <em>2017 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)</em>, pp. 2736-2739. IEEE, 2017."
         
 publications3:
     title: Domestic Journals &amp; Conferences (Korea)

@@ -233,7 +233,7 @@ p {
     margin-bottom: 1px;
   }
   .publication-authors {
-    font-style: italic;
+    font-style: normal;
     color: $text-grey;
     margin-bottom: 1px;
   }
@@ -278,4 +278,10 @@ p {
   .fa-heart {
     color: $heart;
   }
+}
+
+.summary-section a {
+  font-style: italic;
+  text-decoration: underline dashed;
+  text-underline-offset: 2px;
 }
