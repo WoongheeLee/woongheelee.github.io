@@ -1,21 +1,15 @@
-{% assign experiences2 = site.data.data.experiences2 %}
-{% if experiences2 %}
+{% assign experiences5 = site.data.data.experiences5 %}
+{% if experiences5 %}
 <section class="section experiences-section">
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-address-card	fa-stack-1x fa-inverse"></i>
+      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
     </span>
-    {{ experiences2.title }}
+    {{ experiences5.title }}
   </h2>
 
-  {% if experiences2.intro %}
-  <div class="intro">
-    {{ experiences2.intro | markdownify }}
-  </div><!--//intro-->
-  {% endif %}
-
-  {% for experience in experiences2.info %}
+  {% for experience in experiences5.info %}
   <div class="item">
 
     <div class="meta">
@@ -40,4 +34,3 @@
 
 </section><!--//section-->
 {% endif %}
-

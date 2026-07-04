@@ -119,7 +119,7 @@ publications2:
 publications3:
     title: Domestic Journals &amp; Conferences
     papers: 
-        - title: 5 Journal Papers (KCI) & 18 Poster and Oral Presentations (2016-current)
+        - title: 5 Journal Papers (KCI) & 19 Poster and Oral Presentations (2016-current)
     
 education:
     title: Education & Research Visit
@@ -214,6 +214,22 @@ experiences4:
 
 
 
+# ── Invited Articles (비활성 / disabled) ────────────────────────────────
+# 한림원의 창 2026 여름호 기고문. 아직 출판 확정 전이라 꺼둔 상태로 보관.
+# 활성화 절차:
+#   1) 아래 experiences5 블록의 주석(#) 제거
+#   2) index.html 에서 experiences5 include 의 {% comment %} 태그 제거
+#   3) 출판되면 details 에 공개 링크(네이버 블로그/PDF) 추가
+# experiences5:
+#     title: Invited Articles
+#     info:
+#       - role: Contributor
+#         time: "Summer 2026"
+#         company: "한림원의 창 (Window of KAST), Korean Academy of Science and Technology"
+#         details: |
+#             - "AI와 과학의 공진화 (coevolution)" — invited essay for the policy
+#               magazine series "AI와 함께 연구하는 시대" (submitted; pending publication)
+
 experiences3:
     title: Review Service
     info:
@@ -235,6 +251,17 @@ experiences3:
 
 experiences2:
     title: Project Experience
+    intro: |
+      **현재 진행 중인 과제**
+
+      - 에너지 R&D 초융합 AI·계산과학 연구 체계 고도화
+      - 건물·산업공정 자율운전 국산 AI 에이전트 개발 (에너지비용 15% 절감)
+      - 우주발사체용 초고온 내열 세라믹 소재 HUB 구축
+      - AI 기반 에너지 소재 열화 예측 플랫폼 구축
+
+      등을 수행 중 ([전체 목록 링크](https://dais-research.github.io/#projects))
+
+      아래는 KIER 합류 이전에 수행한 과제입니다.
     info:
         - role: "참여 연구원"
           time: "Jan. 2022 - Dec. 2022"
@@ -243,7 +270,6 @@ experiences2:
               딥러닝 기반 치과재료구매 온라인상점 검색 시스템
               
                 - 관계형 데이터베이스 기반 검색 시스템으로부터, NoSQL 기반 검색 엔진 ElasticSearch 사용을 위한 메뉴얼 작성과 사용자의 검색 시나리오에 따른 쿼리 작성
-                - 멀티모달 데이터를 이용한 텍스트문 요약 연구 (언더리뷰)
             
             
         - role: 연구 보조원
@@ -331,25 +357,6 @@ oss:
       - title: "2015 - 2017"
         tagline: HY-iN scholarship, Hanyang University, Korea
 
-
-skills:
-    title: Skills
-
-    toolset:
-      - name: (Deep Learning) PyTorch, TensorFlow
-        level: 98%
-
-      - name: (Machine Learning) Scikit-learn, pandas, NumPy, SciPy, Matplotlib 
-        level: 98%
-
-      - name: (General) Python
-        level: 98%
-
-      - name: (Web) FastAPI HTML, CSS, JavaScript
-        level: 95%
-
-      - name: (Office Software) Powerpoint, Word, Excel
-        level: 98%
 
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
