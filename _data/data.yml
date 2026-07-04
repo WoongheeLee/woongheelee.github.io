@@ -117,7 +117,7 @@ publications2:
         conference: "In <em>2017 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)</em>, pp. 2736-2739. IEEE, 2017."
         
 publications3:
-    title: Domestic Journals &amp; Conferences (Korea)
+    title: Domestic Journals &amp; Conferences
     papers: 
         - title: 5 Journal Papers (KCI) & 18 Poster and Oral Presentations (2016-current)
     
@@ -153,8 +153,8 @@ experiences:
         details: |
             Logical Foundations of Programming
             
-            - a course for students who major in computer science to help translation of natural language into logical language which can be understood by computer
-            - taught first-order logic which is the logical language as well as proof skills of problems written in first-order logic
+            - Teaching CS students to translate natural language into formal logic
+            - Covered first-order logic and proof techniques
       - role: Lecturer
         time: Spring 2020
         company: Hanyang University ERICA Campus
@@ -173,11 +173,11 @@ experiences:
             - Data Base
 
 experiences4:
-    title: Selected Presentations
+    title: Presentations
     info:
       - role: Invited Lecturer
         time: "Nov. 5th, 2025"
-        company: "THe 14th Asia-Pacific Forum on Renewable Energy (AFORE 2025)"
+        company: "The 14th Asia-Pacific Forum on Renewable Energy (AFORE 2025)"
         details: |
             - Tutorial: Smart Research Life with AI
             - AI Agent-Based Research Tools: From Background to Cases
@@ -215,7 +215,7 @@ experiences4:
 
 
 experiences3:
-    title: Review service
+    title: Review Service
     info:
         - role: Peer reviewer
           time: "2026"
@@ -234,7 +234,7 @@ experiences3:
           company: "26th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2023)"
 
 experiences2:
-    title: Project experience
+    title: Project Experience
     info:
         - role: "참여 연구원"
           time: "Jan. 2022 - Dec. 2022"
@@ -333,7 +333,7 @@ oss:
 
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
       - name: (Deep Learning) PyTorch, TensorFlow
